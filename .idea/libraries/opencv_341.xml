@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="opencv-341">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Applications/opencv-3.4.1/build/bin/opencv-341.jar!/" />
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Applications/opencv-3.4.1/build/bin/opencv-341.jar!/" />
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" recursive="false" type="SOURCES" />
+  </library>
+</component>

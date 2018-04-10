@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="java_test">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Applications/opencv-3.4.1/build/java_test" recursive="false" type="SOURCES" />
+  </library>
+</component>
